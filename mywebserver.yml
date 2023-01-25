@@ -2,7 +2,7 @@
 - hosts: all
   becomes: yes 
   tasks: 
-  - name: install webserver on ubuntu ansible nodes
+  - name: install webserver on ubuntu ansible node
      apt: 
         name: apache2
         state: present
