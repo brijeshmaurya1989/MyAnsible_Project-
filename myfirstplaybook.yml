@@ -6,3 +6,7 @@
     apt:
        name: git 
        state: present 
+  - name: start git 
+    apt: 
+       name: git 
+       state: started 
