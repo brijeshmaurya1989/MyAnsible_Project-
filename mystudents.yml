@@ -1,0 +1,16 @@
+---
+- mystudents:
+     - name: anil
+       phone: 8080808080
+       address:
+           door no: 34
+           street: 3
+           pin: 500016
+     - name: balu
+       phone: 9090909090
+       address: 
+            door no: 45
+            street: 8
+            pin: 500016
+
+
