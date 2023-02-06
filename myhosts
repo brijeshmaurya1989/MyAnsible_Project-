@@ -3,14 +3,6 @@
 172.31.14.63
 
 
-[applicationservers]
-172.31.18.81
-172.31.24.124
-
-[dbserver]
-172.31.18.81
-172.31.24.214
-
 
 [mywebservers: vars]
 mywebserverpackonubuntu= apache2
